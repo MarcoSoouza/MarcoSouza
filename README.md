@@ -1,9 +1,15 @@
 # MarcoSouza
 
-<div>
-  <a href="https://github.com/MarcoSoouza">
+<div align="center">
+  <a href="https://github.com/MarcoSoouza" target="_blank" style="display: inline-block;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcoSoouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/MarcoSoouza" target="_blank" style="display: inline-block;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoSoouza&layout=compact&langs_count=16&theme=dark"/>
+  </a>
+</div>
+
+
 
 <!-- LINGUAGENS -->
 <div style="display: inline_block; text-align: center;"><br>
@@ -14,7 +20,7 @@
   <img align="right" alt="Marco-IronMan" height="120" src="https://media.giphy.com/media/QbumCX9HFFDQA/giphy.gif">
 </div>
 
-<br><br> <!-- Espaço entre as seções -->
+<br><br>
 
 <!-- REDES SOCIAIS -->
 <div align="center">
