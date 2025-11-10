@@ -4,10 +4,10 @@
   <a href="https://github.com/MarcoSoouza" target="_blank" style="display: inline-block;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcoSoouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/MarcoSoouza" target="_blank" style="display: inline-block;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoSoouza&layout=compact&langs_count=16&theme=dark"/>
-  </a>
-</div>
+<a href="https://github.com/MarcoSoouza" target="_blank" style="display: inline-block;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoSoouza&layout=compact&langs_count=16&theme=dark"/>
+</a>
+
 
 
 
